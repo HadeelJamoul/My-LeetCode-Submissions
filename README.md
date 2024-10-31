@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0344-reverse-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
