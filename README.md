@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -31,5 +32,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0137-single-number-ii) |
 | [0461-hamming-distance](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
