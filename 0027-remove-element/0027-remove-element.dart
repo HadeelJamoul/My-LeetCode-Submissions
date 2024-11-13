@@ -12,10 +12,9 @@ class Solution {
         nums[k] = nums[i];
         //k = 1
         //k = 2
-        k = k + 1;
+        k += 1;
       }
     }
-    print(nums);
     return k;
   }
 }
