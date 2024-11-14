@@ -1,9 +1,20 @@
 class Solution {
   int searchInsert(List<int> nums, int target) {
-    if (!nums.contains(target)) {
-      nums.add(target);
-      nums.sort();
+    int left = 0;
+    int right = nums.length - 1;
+
+    while (left <= right) {
+      int mid = (left + right) ~/ 2;
+      if (nums[mid] < target) {
+        left = mid + 1;
+      } else if (nums[mid] > target) {
+        right = mid - 1;
+      } else {
+        return mid; // Target found at index mid
+      }
     }
-    return nums.indexOf(target);
+    
+    // If target is not found, left is the insertion position
+    return left;
   }
 }
