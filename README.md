@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0036-valid-sudoku) |
 | [0137-single-number-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0189-rotate-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
