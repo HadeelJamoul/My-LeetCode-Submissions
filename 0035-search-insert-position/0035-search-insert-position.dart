@@ -3,8 +3,8 @@ class Solution {
     if (nums.contains(target)) return nums.indexOf(target);
     if (!nums.contains(target)) {
       nums.add(target);
+      nums.sort();
     }
-    nums.sort();
     return nums.indexOf(target);
   }
 }
