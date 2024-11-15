@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0036-valid-sudoku) |
+| [0088-merge-sorted-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0283-move-zeroes) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0344-reverse-string) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
