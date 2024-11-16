@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 ## Math
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0036-valid-sudoku) |
 | [0088-merge-sorted-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0303-range-sum-query-immutable) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
@@ -96,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0303-range-sum-query-immutable) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
