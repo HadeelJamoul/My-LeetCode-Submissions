@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
