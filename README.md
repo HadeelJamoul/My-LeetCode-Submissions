@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0263-ugly-number) |
 ## String
 |  |
 | ------- |
