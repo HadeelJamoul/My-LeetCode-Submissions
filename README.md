@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0344-reverse-string) |
 ## Array
