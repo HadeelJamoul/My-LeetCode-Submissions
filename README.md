@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0383-ransom-note) |
 ## Array
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
