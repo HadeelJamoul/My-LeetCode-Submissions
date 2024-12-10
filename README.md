@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0500-keyboard-row) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0500-keyboard-row) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0500-keyboard-row) |
 ## Two Pointers
 |  |
 | ------- |
