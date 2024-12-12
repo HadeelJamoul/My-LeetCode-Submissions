@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0414-third-maximum-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -151,10 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
