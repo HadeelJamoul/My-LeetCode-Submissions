@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Array
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Two Pointers
 |  |
 | ------- |
