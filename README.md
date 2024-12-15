@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0263-ugly-number) |
+| [0415-add-strings](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Array
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0415-add-strings) |
 ## Stack
 |  |
 | ------- |
