@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0415-add-strings) |
+| [1708-design-parking-system](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1708-design-parking-system) |
 ## Stack
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0303-range-sum-query-immutable) |
+| [1708-design-parking-system](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1708-design-parking-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [1708-design-parking-system](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1708-design-parking-system) |
 ## Sliding Window
 |  |
 | ------- |
