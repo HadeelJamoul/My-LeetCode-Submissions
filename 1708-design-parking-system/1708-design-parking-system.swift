@@ -13,11 +13,12 @@ class ParkingSystem {
         return false
     }
 }
+// let parkingSystem: ParkingSystem = ParkingSystem(1, 1, 0)
 
-// print(ParkingSystem(1,1,0).addCar(1))
-// print(ParkingSystem(1,1,0).addCar(2))
-// print(ParkingSystem(1,1,0).addCar(3))
-// print(ParkingSystem(1,1,0).addCar(1))
+// print(parkingSystem.addCar(1))
+// print(parkingSystem.addCar(2)) 
+// print(parkingSystem.addCar(3)) 
+// print(parkingSystem.addCar(1)) 
 
 /**
  * Your ParkingSystem object will be instantiated and called as such:
