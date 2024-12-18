@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0500-keyboard-row) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0680-valid-palindrome-ii) |
 ## Bit Manipulation
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0392-is-subsequence) |
 ## Number Theory
 |  |
 | ------- |
