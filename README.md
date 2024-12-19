@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0461-hamming-distance) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
