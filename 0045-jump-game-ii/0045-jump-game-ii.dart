@@ -1,3 +1,9 @@
+// Divieds the problem into segments/ranges [l,r]
+// within each range, it calculates the farthest postion that can be reached
+// each segments represents one jump
+// the number of segments is the minimum number of jumps
+// this greedy approach ensures you always take the minimum jumps to rech the last index
+
 class Solution {
   int jump(List<int> nums) {
     int res = 0;
