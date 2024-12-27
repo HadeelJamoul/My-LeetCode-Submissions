@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0316-remove-duplicate-letters) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0119-pascals-triangle-ii) |
