@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0645-set-mismatch) |
+| [0782-jewels-and-stones](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0680-valid-palindrome-ii) |
+| [0782-jewels-and-stones](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0782-jewels-and-stones) |
 ## Array
 |  |
 | ------- |
