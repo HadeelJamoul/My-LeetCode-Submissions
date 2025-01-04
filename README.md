@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0782-jewels-and-stones) |
+| [1297-maximum-number-of-balloons](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1297-maximum-number-of-balloons) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0782-jewels-and-stones) |
+| [1297-maximum-number-of-balloons](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1297-maximum-number-of-balloons) |
 ## Array
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [1297-maximum-number-of-balloons](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1297-maximum-number-of-balloons) |
 | [1708-design-parking-system](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1708-design-parking-system) |
 ## Sliding Window
 |  |
