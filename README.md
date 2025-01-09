@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0169-majority-element) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0036-valid-sudoku) |
