@@ -27,13 +27,6 @@ class Solution {
     // Convert the values of the map into a list of lists.
     List<List<String>> result = anagramsMap.values.toList();
 
-    // Sort each group of anagrams alphabetically.
-    for (List<String> group in result) {
-      group.sort();
-    }
-
-
-
     return result;
   }
 }
