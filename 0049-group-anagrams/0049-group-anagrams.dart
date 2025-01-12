@@ -2,29 +2,37 @@ import 'dart:collection';
 
 class Solution {
   List<List<String>> groupAnagrams(List<String> strs) {
-    // Create a HashMap to store the anagrams.
     Map<String, List<String>> anagramsMap = HashMap();
 
     for (String s in strs) {
-      // Initialize a count array to count the occurrences of each character.
       List<int> count = List.filled(26, 0);
 
-      // Count the frequency of each character in the string.
       for (int i = 0; i < s.length; i++) {
+        // we have the letter b
+        // 98 - 97 = 1 
+        // we initialized the count to be all zeros
+        // count[1] = 0 => count[1]++ = 1
         count[s.codeUnitAt(i) - 'a'.codeUnitAt(0)]++;
       }
 
-      // Convert the count array into a key by joining the counts as a string.
+      // this is the key for the word eat
+      // [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+      // "1#0#0#0#1#0#0#0#0#0#0#0#0#0#0#0#0#0#0#1#0#0#0#0#0#0"
       String key = count.join('#');
 
-      // Ensure the key exists in the map.
       anagramsMap.putIfAbsent(key, () => []);
 
-      // Add the string to the appropriate group in the map.
       anagramsMap[key]!.add(s);
     }
 
-    // Convert the values of the map into a list of lists.
+    // the result:
+
+    // {
+    //   "1#0#0#0#1#0#0#0#0#0#0#0#0#0#0#0#0#0#0#1#0#0#0#0#0#0": ["eat", "tea", "ate"],
+    //   "1#0#0#0#0#0#0#0#0#0#0#0#0#1#0#0#0#0#0#0#1#0#0#0#0#0": ["tan", "nat"],
+    //   "1#1#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#1#0#0#0#0#0#0": ["bat"]
+    // }
+
     List<List<String>> result = anagramsMap.values.toList();
 
     return result;
