@@ -32,8 +32,7 @@ class Solution {
       group.sort();
     }
 
-    // Sort the groups to ensure consistent ordering.
-    result.sort((a, b) => a[0].compareTo(b[0]));
+
 
     return result;
   }
