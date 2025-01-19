@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0645-set-mismatch) |
 | [1046-max-consecutive-ones-iii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [2350-find-closest-number-to-zero](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
