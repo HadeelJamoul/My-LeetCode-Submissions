@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0645-set-mismatch) |
+| [1019-squares-of-a-sorted-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [2350-find-closest-number-to-zero](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0680-valid-palindrome-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0645-set-mismatch) |
+| [1019-squares-of-a-sorted-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
