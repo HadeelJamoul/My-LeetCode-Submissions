@@ -3,22 +3,21 @@
 
 class Solution {
     func sortColors(_ nums: inout [Int]) {
-        var low = 0
-        var mid = 0
-        var high = nums.count - 1
+        var counts: [Int] = [0, 0, 0]
         
-        while (mid <= high) {
-            if nums[mid] == 0 {
-              nums.swapAt(low,mid)
-              low += 1
-              mid += 1
-            } else if (nums[mid] == 1){
-              mid += 1
-            } else {
-              nums.swapAt(mid, high)
-              high -= 1
-            }
+        // count occurrences 
+        for num in nums {
+            counts[num] +=  1
         }
+        
+        // swift manual unpacking
+        let(R, W, B) = (counts[0], counts[1], counts[2])
+        print(R, W, B)
+        
+        // overwrite nums based on counts 
+        nums = Array(repeating: 0, count: R) +
+               Array(repeating: 1, count: W) +
+               Array(repeating: 2, count: B)
     }
 }
 
