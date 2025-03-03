@@ -22,7 +22,7 @@ class Solution {
     }
 }
 
-var nums = [2, 0, 1]
-let solution = Solution()
-solution.sortColors(&nums)  // Pass using '&' because nums is inout
-print(nums)
+// var nums = [2, 0, 1]
+// let solution = Solution()
+// solution.sortColors(&nums)  // Pass using '&' because nums is inout
+// print(nums)
