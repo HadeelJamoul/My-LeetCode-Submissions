@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
 |  |
 | ------- |
