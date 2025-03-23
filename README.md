@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [2350-find-closest-number-to-zero](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/2350-find-closest-number-to-zero) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
