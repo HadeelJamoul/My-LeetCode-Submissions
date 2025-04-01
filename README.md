@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1297-maximum-number-of-balloons) |
+| [1894-merge-strings-alternately](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0680-valid-palindrome-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
 | ------- |
