@@ -1,9 +1,9 @@
 class Solution:
     def findClosestNumber(self, nums: list[int]) -> int:
-        minimum = max(nums)
+        closet = float('inf')
         for num in nums:
             absNum = abs(num)
-            minimum = min(absNum, minimum)
-        if(minimum not in nums):
-            return -minimum
-        return minimum
+            closet = min(absNum, closet)
+        if(closet not in nums):
+            return -closet
+        return closet
