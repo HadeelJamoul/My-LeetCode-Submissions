@@ -5,8 +5,8 @@ class Solution:
         s = []
         while(a < A and b < B):
             s.append(word1[a])
-            a += 1
             s.append(word2[b])
+            a += 1
             b += 1
         
         while (a < A):
