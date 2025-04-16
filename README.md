@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0074-search-a-2d-matrix) |
@@ -201,10 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0415-add-strings) |
