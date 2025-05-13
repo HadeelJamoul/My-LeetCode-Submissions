@@ -1,13 +1,14 @@
-from collections import defaultdict
 
 class Solution:
     def majorityElement(self, nums: list[int]) -> int:
-        freq = defaultdict(int)
+        candidate = None
+        count = 0
         for num in nums:
-            freq[num] += 1
-        max_value = 0
-        for value in freq.values():
-            max_value = max(value, max_value)
-        for key in freq.keys():
-            if freq[key] == max_value:
-                return key
+            if count == 0:
+                candidate = num
+            if num == candidate:
+                count += 1
+            else:
+                count -= 1
+        return candidate
+
