@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0263-ugly-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0169-majority-element) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0316-remove-duplicate-letters) |
 | [0682-baseball-game](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0682-baseball-game) |
 ## Greedy
