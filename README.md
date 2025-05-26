@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0316-remove-duplicate-letters) |
 | [0682-baseball-game](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 ## String Matching
 |  |
 | ------- |
