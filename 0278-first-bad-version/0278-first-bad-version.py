@@ -21,4 +21,4 @@ class Solution:
             else:
                 # left = 3 + 1
                 left = mid + 1
-        return left
+        return right
