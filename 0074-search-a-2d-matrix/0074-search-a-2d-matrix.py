@@ -1,7 +1,8 @@
 class Solution:
     def searchMatrix(self, matrix: list[list[int]], target: int) -> bool:
-        m = len(matrix)
         # number of rows 
+        m = len(matrix)
+        # number of columns 
         n = len(matrix[0])
         t = m * n
         left = 0
