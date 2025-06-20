@@ -2,20 +2,29 @@ import math
 
 class Solution:
     def minEatingSpeed(self, piles: list[int], h: int) -> int:
-        def mid_works(mid):
+        # Helper function to check if Koko can eat all bananas at speed k within h hours
+        def k_works(k):
             hours = 0
-            for p in piles:
-                hours += math.ceil(p / mid)
+            for pile in piles:
+                hours += math.ceil(pile / k)
             return hours <= h
-        
-        l = 1
-        r = max(piles)
-        
-        while l < r:
-            mid = (l + r) // 2
-            if mid_works(mid):
-                r = mid
+
+        # The minimum possible eating speed is 1
+        # The maximum possible eating speed is the largest pile (Koko eats one pile per hour in the worst case)
+        left = 1
+        right = max(piles)
+
+        # Binary search to find the minimum feasible eating speed
+        while left < right:
+            k = (left + right) // 2
+            # If Koko can finish with speed k, try a smaller speed
+            if k_works(k):
+                right = k
             else:
-                l = mid + 1
-        
-        return l
+                # Otherwise, increase the speed
+                left = k + 1
+
+        # At the end of the loop, left == right and is the minimum valid speed
+        return left
+
+print(Solution().minEatingSpeed([3,6,7,11], 8))
