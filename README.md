@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0242-valid-anagram) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0316-remove-duplicate-letters) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0303-range-sum-query-immutable) |
 | [1708-design-parking-system](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1708-design-parking-system) |
 ## Prefix Sum
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 ## Linked List
 |  |
 | ------- |
