@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1127-last-stone-weight](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1127-last-stone-weight) |
 | [2350-find-closest-number-to-zero](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
 |  |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0506-relative-ranks) |
+| [1127-last-stone-weight](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1127-last-stone-weight) |
 ## Union Find
 |  |
 | ------- |
