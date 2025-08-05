@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0228-summary-ranges) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0274-h-index) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0190-reverse-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1127-last-stone-weight) |
 ## Union Find
@@ -423,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
