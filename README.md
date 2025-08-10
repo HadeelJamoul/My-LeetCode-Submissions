@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0415-add-strings) |
+| [1014-k-closest-points-to-origin](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1127-last-stone-weight) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0645-set-mismatch) |
+| [1014-k-closest-points-to-origin](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
 ## Matrix
 |  |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0506-relative-ranks) |
+| [1014-k-closest-points-to-origin](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1127-last-stone-weight) |
 ## Union Find
 |  |
@@ -438,8 +443,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
