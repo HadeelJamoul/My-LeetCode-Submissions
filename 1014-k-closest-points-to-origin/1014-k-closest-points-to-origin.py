@@ -19,4 +19,4 @@ class Solution:
             
         return [(x,y) for d, x, y in heap]
 
-print(Solution().kClosest([[1,3],[-2,2]], 1))
+# print(Solution().kClosest([[1,3],[-2,2]], 1))
