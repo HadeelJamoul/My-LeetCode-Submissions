@@ -3,20 +3,19 @@ import heapq
 
 class Solution:
     def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
-        def count_dis(x, y):
-            return (x*x)+(y*y)
-        
         heap = []
-        # at the top of the heap we have
-        # the minimum value => the most negative => the farthest
-        # so all k point in the heap are required in the answer
-        for x, y in points:
-            d = count_dis(x,y)
-            if (len(heap) < k):
-                heapq.heappush(heap, (-d , x, y))
-            else:
-                heapq.heappushpop(heap, (-d, x, y))
-            
-        return [(x,y) for d, x, y in heap]
+        answer = []
+        for p1, p2 in points:
+            heap.append(((p1*p1 + p2*p2), [p1,p2]))
+        
+        
+        heapq.heapify(heap)
+        while(k >= 1):
+            closet_point = heapq.heappop(heap)
+            answer.append(closet_point[1])
+            k -= 1
+        # print(heap)
+        return answer
+    
 
 # print(Solution().kClosest([[1,3],[-2,2]], 1))
