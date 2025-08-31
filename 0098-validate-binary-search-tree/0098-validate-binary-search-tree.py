@@ -1,26 +1,25 @@
-#Definition for a binary tree node.
+# Definition for a binary tree node.
+from typing import Optional
+
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
         self.val = val
         self.left = left
         self.right = right
-from typing import Optional
 
 
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
         
-        if not root : return True
-        
-        def is_valid(node, minn, maxx):
+        def isValid(node: Optional[TreeNode], low: float, high: float) :
+            if not node: return True
+            if not (low < node.val < high) : return False
+            return (
+                isValid(node.left, low, node.val)
+                and
+                isValid(node.right, node.val, high)
+            )
             
-            if not node : return True
-            
-            if not (minn < node.val < maxx):
-                return False
-            
-            return is_valid(node.left, minn, node.val) and is_valid(node.right, node.val, maxx)
+        return isValid(root, float('-inf'), float('inf'))
 
-        return is_valid(root, float('-inf'), float('inf'))
-
-# print(Solution().isValidBST(TreeNode(2, TreeNode(1), TreeNode(3))))
+print(Solution().isValidBST(TreeNode(2, TreeNode(1), TreeNode(3))))
