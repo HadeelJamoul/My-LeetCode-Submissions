@@ -1,28 +1,22 @@
+from typing import List
+
+
 class Solution:
-    def evalRPN(self, tokens: list[str]) -> int:
-        score = 0
-        stk = []
+    def evalRPN(self, tokens: List[str]) -> int:
+        ops = ['-', '+', '/', '*']
+        nums = []
         for token in tokens:
-            if token == '+':
-                a = stk.pop()
-                b = stk.pop()
-                stk.append(a + b)
-            
-            elif token == '*':
-                a = stk.pop()
-                b = stk.pop()
-                stk.append(a * b)
-            
-            elif token == '-':
-                a = stk.pop()
-                b = stk.pop()
-                stk.append(b - a)
-            elif token == '/':
-                a = stk.pop()
-                b = stk.pop()
-                stk.append(int(b / a))
+            if token not in ops:
+                nums.append(int(token))
             else:
-                stk.append(int(token))
-        
-        score = stk.pop()
-        return score
+                right = nums.pop()
+                left = nums.pop()
+                if token == '+':
+                    nums.append(right + left)
+                elif token == '*':
+                    nums.append(right * left)
+                elif token == '/':
+                    nums.append(int(left / right))
+                else:
+                    nums.append(left - right)
+        return nums[0]
