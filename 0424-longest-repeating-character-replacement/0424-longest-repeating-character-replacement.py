@@ -1,22 +1,17 @@
-from collections import defaultdict
-
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
+        theLongest = 0
         l = 0
-        max_count = 0 
-        count = defaultdict(int)
+        counts = [0] * 26
         n = len(s)
-        result = 0
+
         for r in range(n):
-            count[s[r]] += 1
-            max_count = max(max_count, count[s[r]])
-            
-            # if the difference between window length and
-            # the max count of the current window 
-            # is greater than k (thats means we need to shift the window)
-            if (r - l + 1) - max_count > k :
-                count[s[l]] -= 1
+            counts[ord(s[r]) - 65] += 1
+ 
+            while (r - l + 1) - max(counts) > k:
+                counts[ord(s[l]) - 65] -= 1
                 l += 1
-            
-            result = max(result, r- l + 1)
-        return result
+ 
+            theLongest = max(theLongest, (r - l + 1))
+ 
+        return theLongest
