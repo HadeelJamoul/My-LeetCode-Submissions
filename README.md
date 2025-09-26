@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0611-valid-triangle-number](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0682-baseball-game) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0611-valid-triangle-number](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0367-valid-perfect-square) |
+| [0611-valid-triangle-number](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0645-set-mismatch) |
 | [1014-k-closest-points-to-origin](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0680-valid-palindrome-ii) |
 ## Monotonic Stack
 |  |
