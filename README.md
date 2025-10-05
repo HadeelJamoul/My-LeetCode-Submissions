@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0415-add-strings) |
 | [1014-k-closest-points-to-origin](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 ## String
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0500-keyboard-row) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0682-baseball-game) |
 | [1708-design-parking-system](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1708-design-parking-system) |
