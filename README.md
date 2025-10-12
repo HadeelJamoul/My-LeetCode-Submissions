@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0680-valid-palindrome-ii) |
+| [0742-to-lower-case](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
