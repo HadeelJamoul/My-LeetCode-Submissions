@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0048-rotate-image) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 ## String Matching
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/HadeelJamoul/My-LeetCode-Submissions/tree/master/0118-pascals-triangle) |
